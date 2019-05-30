@@ -6,6 +6,8 @@
 
 * stack
 
+* tree
+
 ---
 
 ### Exercise

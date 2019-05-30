@@ -7,4 +7,5 @@
 // require('./Queue/test')
 // require("./Queue/josephus")
 // require('./Queue/eratosthenes')
-require('./recursion/isPalindrome')
+// require('./recursion/isPalindrome')
+require('./tree/test')
