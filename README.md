@@ -14,6 +14,13 @@
 
 * condense
 
+* eratosthenes
+
+* hosephus
+
+* isPalindrome
+
+* morseCode decode
 ---
 
 ### Refs

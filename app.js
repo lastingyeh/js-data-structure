@@ -8,4 +8,8 @@
 // require("./Queue/josephus")
 // require('./Queue/eratosthenes')
 // require('./recursion/isPalindrome')
-require('./tree/test')
+
+// Tree
+// require('./tree/tree/test')
+// require('./tree/binaryTree/test');
+require('./tree/morsecodeTree/test')
