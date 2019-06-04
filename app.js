@@ -12,4 +12,8 @@
 // Tree
 // require('./tree/tree/test')
 // require('./tree/binaryTree/test');
-require('./tree/morsecodeTree/test')
+// require('./tree/morsecodeTree/test')
+
+// Map
+// require('./map/hashmap/test')
+require('./map/linkedHashmap/test')

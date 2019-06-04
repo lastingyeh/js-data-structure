@@ -8,6 +8,8 @@
 
 * tree
 
+* map
+
 ---
 
 ### Exercise
@@ -21,6 +23,7 @@
 * isPalindrome
 
 * morseCode decode
+
 ---
 
 ### Refs
