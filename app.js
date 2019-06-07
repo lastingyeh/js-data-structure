@@ -16,4 +16,7 @@
 
 // Map
 // require('./map/hashmap/test')
-require('./map/linkedHashmap/test')
+// require('./map/linkedHashmap/test')
+
+// Graph
+require('./graph/test')
